@@ -1,1 +1,3 @@
 # Weather-app-project.
+Network Requests in JavaScript
+create your app to fetch weather's data  like temperature, location ...
